@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # front-search-person-vue
 FrontEnd de creación de cuentas para la API de SearchPerson.
 =======
@@ -31,4 +30,3 @@ npm run build
 ```sh
 npm run lint
 ```
->>>>>>> master
